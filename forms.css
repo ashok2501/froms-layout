@@ -1,0 +1,55 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+}
+.hading
+{
+    width: 100%;
+    height: 100%;
+    color: white;
+    background-color: cornflowerblue;
+    padding: 0px 20px 0px;
+    display: flex;
+    justify-content: space-between;
+    border: solid 02px cyan;
+    align-items: center;
+
+}
+.hading h1
+{
+    background-color:cornflowerblue ;
+}
+.hading ul
+{
+display: flex;
+list-style: none;
+}
+.hading ul a
+{
+ color: white;
+ background-color:cornflowerblue ;
+ text-decoration: none;
+ padding: 10px;
+}
+.form
+{
+    width: 100%;
+    height: 100%;
+    padding-left: 20px;
+    margin: 10px;
+}
+.ashok
+{
+    margin-top: 20px;
+    border-radius: 20px;
+    color: yellow;
+    width: 30%;
+    background-color: black;
+}
+input[type="text" i]
+{
+    width: 80%;
+}
